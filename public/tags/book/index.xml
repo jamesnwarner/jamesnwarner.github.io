@@ -14,11 +14,11 @@
     <lastBuildDate>Tue, 14 Jan 2025 21:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>When they win you win</title>
+      <title>Book summary - When They Win, You Win : Being a Great Manager Is Simpler Than You Think by Russ Laraway</title>
       <link>http://localhost:1313/posts/when-they-win-you-win/</link>
       <pubDate>Tue, 14 Jan 2025 21:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/when-they-win-you-win/</guid>
-      <description>Desc Text.</description>
+      <description>Learn how to use the Big Three of leadership—direction, coaching, and career development—to build engaged, high-performing software engineering teams that deliver amazing results.</description>
     </item>
   </channel>
 </rss>
