@@ -70,8 +70,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: 'Welcome to my blog'
+    Content: >
+      Hey there! \U0001F44B I’m James, a Lead Software Engineer at [AM](https://www.amdigital.co.uk/), where we create innovative digital resources that empower educators and students alike.
+
+      I plan to share my learnings in technology and leadership. I am always reading some new book about leadership, management or people and I plan to post about them on this site. I'll also be talking about conferences or anything else that inspires me on my journey
+
+      If you’re into tech, leadership, or personal growth then you might find something of interest here.
+
+      Cheers,
+      James
 
   socialIcons:
     - name: github
@@ -100,22 +108,23 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: 'https://github.com/<path_to_repo>/content'
-    Text: 'Suggest Changes' # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: 'https://github.com/<path_to_repo>/content'
+  #   Text: 'Suggest Changes' # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ['title', 'permalink', 'summary', 'content']
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+  #   keys: ['title', 'permalink', 'summary', 'content']
+
 menu:
   main:
     - identifier: categories
