@@ -72,13 +72,18 @@ params:
   homeInfoParams:
     Title: 'Welcome to my blog'
     Content: >
-      Hey there! \U0001F44B I’m James, a Lead Software Engineer at [AM](https://www.amdigital.co.uk/), where we create innovative digital resources that empower educators and students alike.
+      Hey there! 👋 I’m James, a Lead Software Engineer at [AM](https://www.amdigital.co.uk/), where we create innovative digital resources that empower educators and students alike.
 
-      I plan to share my learnings in technology and leadership. I am always reading some new book about leadership, management or people and I plan to post about them on this site. I'll also be talking about conferences or anything else that inspires me on my journey
+
+      I'll be sharing my learnings in technology and leadership. I'm always reading some new book about leadership, management or people and I'll be sharing my thoughts and insights on this site. I'll also be talking about conferences or anything else that inspires me on my journey in software engineering.
+
 
       If you’re into tech, leadership, or personal growth then you might find something of interest here.
 
+
       Cheers,
+
+
       James
 
   socialIcons:
@@ -97,7 +102,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: 'XYZabc'
+      SiteVerificationTag: 'G-FB2D828YBY'
     bing:
       SiteVerificationTag: 'XYZabc'
     yandex:

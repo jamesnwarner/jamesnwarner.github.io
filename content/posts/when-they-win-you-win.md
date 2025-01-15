@@ -37,7 +37,7 @@ I would highly recommend this book to anyone with an interest in leadership and 
 
 
 ## Engagement
-The book starts by discussing engagement and how important having engaged teams is to an organisation's success. Engaged teams are **17% more productive** and drive **21% more profit**. Guess what? Managers influence around 70% of team engagement. So if you lead a team, your role and influence are huge.
+The book starts by discussing engagement and how important having engaged teams is to an organisation's success. Engaged teams are **17% more productive** and drive **21% more profit**. Managers influence around 70% of team engagement. So if you lead a team or have direct reports then your role and influence are huge.
 
 ## The Big 3
 The book lays out a framework for being a manager which it calls "The Big 3". These are Direction, Coaching and Career.
