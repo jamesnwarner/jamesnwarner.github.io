@@ -4,6 +4,7 @@ date: 2025-01-14T21:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["leadership", "book"]
+categories: ["leadership"]
 author: "James Warner"
 showToc: true
 TocOpen: false
