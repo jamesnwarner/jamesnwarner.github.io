@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Learn how to use the Big Three of leadership—direction, coaching, and career development—to build engaged, high-performing software engineering teams that deliver amazing results."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://jamesnwarner.github.io/posts/when-they-win-you-win/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
