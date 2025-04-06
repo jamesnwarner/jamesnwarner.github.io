@@ -1,12 +1,12 @@
 ---
 title: "Book highlights - Scaling People: Tactics for Management and Company Building by Claire Hughes Johnson"
-date: 2025-04-01T00:00:00+01:00
+date: 2025-04-06T20:00:00+01:00
 tags: ["leadership", "book"]
 categories: ["leadership"]
 author: "James Warner"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Notes and highlights from the book Scaling People: Tactics for Management and Company Building by Claire Hughes Johnson"
@@ -32,7 +32,7 @@ cover:
 
 Over the past few months, I've been reading [Claire Hughes Johnson](https://www.linkedin.com/in/claire-hughes-johnson-7058/)'s [Scaling People](https://www.goodreads.com/book/show/63063173-scaling-people) book. I recently added this book to my leadership library. It focuses on the strategies and tactics that leaders can apply to build and scale their organisation. In this post, I'll be covering some of my highlights from the book. This post only covers the surface level. Claire goes into much more detail on all of the below topics in her book, so I would highly recommend you buy a copy for yourself and give it a read.
 
-I've got several headings below that go into detail on some of the topics Claire covers in her book. I'll start with **Recruitment**.
+I've got several headings below that go into detail on some of the topics Claire covers. I'll start with **Recruitment**.
 
 ## Recruitment
 
@@ -44,7 +44,6 @@ Following this, Claire talks about understanding who in your organisation is thr
 1. People who have a great impact on their company's progress
 1. People who love what they do 
 
-![Hiring venn diagram](../../assets/hiring-venn-diagram.jpg)
 {{ $image := .Resources.Get "hiring-venn-diagram.jpg" }}
 
 Think about who in your organisation or team fits into this cross-section and the qualities they have. Structure your interview questions in a way that allows you to identify these qualities in others.
@@ -109,7 +108,7 @@ Career Conversations is a topic I've read a lot about in several different books
 Be prepared to take a lot of notes and ask "why" a lot. You want them to reflect on their choices. What do they think of them now? How did these influence their thinking? What do they want to return to?
 
 Outlined below is the rough structure that Claire recommends to follow:
-- **Tell me about where you grew up** - Don't prey on family life, but family life and patterns will often manifest in people's work selves.
+- **Tell me about where you grew up** - Do not pry or push too much on family life, but family life and patterns will often manifest in people's work selves.
 - **Tell me about where you went to school** - Get them talking about what interested them in school and why they chose to study what they did.
 - **What did you do right after university?** - Want to understand why they did what they did after graduating, if applicable. Remember to ask why. These will help give you insights into early motivations.
 - **Tell me about your favourite job and least favourite job. How and why did you make the decisions you made when choosing these roles?** - You want to focus on the choices they made. Get a sense of their learnings and especially the work they are good at and enjoy and also what they find harder. Drive in if there is a nugget. You want to spot some patterns.
@@ -121,7 +120,7 @@ Don't forget the wrap-up. Recap the conversation, share any notes you took and t
 
 ## Creating a culture of feedback
 
-One of the points Claire highlights in her book around feedback is the difference between _team_ and _individual_ feedback. Team feedback is feedback about the performance of a team of people and this feedback should be data-driven and presented in a way that displays it as an honest assessment of how things are going from that team. Talking publicly about what a team learn and what a team can do differently to improve helps to build that feedback culture.
+One of the points Claire highlights in her book around feedback is the difference between _team_ and _individual_ feedback. Team feedback is feedback about the performance of a team of people and this feedback should be data-driven and presented in a way that displays it as an honest assessment of how things are going from that team. Talking publicly about what a team learned and what a team can do differently to improve helps to build that feedback culture.
 
 Next, Claire dives a little more into how to create a "culture of informal feedback".
 
@@ -129,7 +128,7 @@ Next, Claire dives a little more into how to create a "culture of informal feedb
 
 The point that Claire makes in her book that resonated with me the most is that leaders need to model the behaviour they expect. To build a healthy feedback culture, leaders need to be the people demonstrating feedback in both team meetings and 1:1s. Once again, the rule of thumb of "praise publicly, criticize privately" is mentioned. You should solicit and welcome feedback. If you're trying something new or know that what you are doing is something you want feedback on, then set the expectation up front that you want feedback with your team or people. 
 
-As the best way to create a feedback culture is to ask for it yourself, here are some pointers Claire makes in her book:
+The best way to create a feedback culture is to ask for it yourself, here are some pointers Claire makes in her book:
 - **Ask on different occasions and through different forums.** Ask in 1:1s, over email, in work sessions, etc. Phrase the request as asking for something you can improve, this makes it clear you want feedback. Ask "What could I have done differently?", "What can I do to make this project more successful?".
 - **Normalize the practice of giving feedback**. If you were given feedback in private, mention in a public meeting that you received some feedback. You want to try and set the norm and culture that giving and receiving feedback is welcome and is a regular occurrence.
 - **Let the feedback sit**. When presented with feedback, you may be tempted to problem-solve or explain. Instead, try to repeat the feedback to ensure you've understood and heard it correctly and then thank them. If you want to problem-solve, come back to this at a later time.
