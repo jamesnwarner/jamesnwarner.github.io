@@ -44,7 +44,7 @@ Following this, Claire talks about understanding who in your organisation is thr
 1. People who have a great impact on their company's progress
 1. People who love what they do 
 
-![Hiring Venn Diagram](/../images/hiring-venn-diagram.jpg)
+![image-test](/../images/hiring-venn-diagram.jpg)
 
 Think about who in your organisation or team fits into this cross-section and the qualities they have. Structure your interview questions in a way that allows you to identify these qualities in others.
 
